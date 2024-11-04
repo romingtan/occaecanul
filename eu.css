@@ -1,0 +1,7 @@
+.strikethrough {
+    text-decoration: line-through; /* Draws a line through the text */
+    text-decoration-color: red;    /* Color of the strikethrough line */
+    text-decoration-thickness: 2px; /* Thickness of the line */
+    text-decoration-style: dashed; /* Style of the line (solid, dashed, dotted, etc.) */
+    text-decoration-skip-ink: auto; /* Behavior when encountering 'ink' traps */
+}
